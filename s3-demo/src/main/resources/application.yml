@@ -1,0 +1,13 @@
+cloud:
+
+  aws:
+    credentials:
+      access-key:  AKIA6CDCU7GB7V6QB3XU
+      secret-key:  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
+    region:
+      static:  us-east-1
+      stack:  false
+
+application:
+  bucket:
+    name: awsbucketpathward
